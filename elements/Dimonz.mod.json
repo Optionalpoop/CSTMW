@@ -15,7 +15,7 @@
     "rewardLoot": [],
     "rewardRecipes": [],
     "rewardFunction": "No function",
-    "rewardXP": 50000,
+    "rewardXP": 500000000000000,
     "achievementType": "task",
     "parent": {
       "value": "story/mine_diamond"
