@@ -1,0 +1,31 @@
+{
+  "id_map": {},
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "cool_stuff_to_mess_with",
+    "modName": "Cool Stuff To Mess With",
+    "version": "1.0.0",
+    "author": "erikn, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.coolstufftomesswith",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}
