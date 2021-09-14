@@ -1,10 +1,23 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Dimonz",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dimonz"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "advancements.dimonz.title": "Dimonz",
+      "advancements.dimonz.descr": "get alot of dimonz"
+    }
   },
   "foldersRoot": {
     "name": "~",
