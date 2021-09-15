@@ -27,6 +27,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "e"
+    },
+    {
+      "name": "America",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "america"
     }
   ],
   "variable_elements": [],
@@ -34,6 +43,8 @@
   "language_map": {
     "en_us": {
       "advancements.ez.descr": "dis achievement do be ez to get, innit?",
+      "advancements.america.descr": "Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho IllinoisIndiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri MontanaNebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon PennsylvaniaRhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming",
+      "advancements.america.title": "Learn The States",
       "advancements.dimonz.title": "Dimonz",
       "advancements.dimonz.descr": "get alot of dimonz",
       "advancements.ez.title": "Ez",
