@@ -18,6 +18,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ez"
+    },
+    {
+      "name": "E",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e"
     }
   ],
   "variable_elements": [],
@@ -27,7 +36,8 @@
       "advancements.ez.descr": "dis achievement do be ez to get, innit?",
       "advancements.dimonz.title": "Dimonz",
       "advancements.dimonz.descr": "get alot of dimonz",
-      "advancements.ez.title": "Ez"
+      "advancements.ez.title": "Ez",
+      "itemGroup.tabe": "E"
     }
   },
   "foldersRoot": {
