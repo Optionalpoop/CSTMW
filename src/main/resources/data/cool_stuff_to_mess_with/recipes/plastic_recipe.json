@@ -1,0 +1,22 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cool_stuff_to_mess_with:piece_of_plastic"
+    },
+    {
+      "item": "cool_stuff_to_mess_with:piece_of_plastic"
+    },
+    {
+      "item": "cool_stuff_to_mess_with:piece_of_plastic"
+    },
+    {
+      "item": "cool_stuff_to_mess_with:piece_of_plastic"
+    }
+  ],
+  "result": {
+    "item": "cool_stuff_to_mess_with:plastic",
+    "count": 1
+  }
+}

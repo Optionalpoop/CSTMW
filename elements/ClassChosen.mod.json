@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Class Chosen!",
+    "achievementDescription": "Use the plastic wand to get a random class item! Keep this safe, you cant get another, as the advancement can only be gotton once per player!",
+    "achievementIcon": {
+      "value": "CUSTOM:PieceOfPlastic"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [
+      "Plasticclass"
+    ],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 1000,
+    "achievementType": "task",
+    "parent": {
+      "value": "CUSTOM:AWand"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"item_damaged\" x=\"119\" y=\"126\"><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:PlasticWand</field></block></value><value name=\"amount_l\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><value name=\"amount_h\"><block type=\"math_number\"><field name=\"NUM\">100</field></block></value><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

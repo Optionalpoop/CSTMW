@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "item": "cool_stuff_to_mess_with:piece_of_plastic"
+    },
+    "title": {
+      "translate": "advancements.class_chosen.title"
+    },
+    "description": {
+      "translate": "advancements.class_chosen.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "class_chosen": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "cool_stuff_to_mess_with:plastic_wand",
+            "durability": {
+              "min": 1,
+              "max": 100
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1000,
+    "loot": [
+      "cool_stuff_to_mess_with:blocks/plasticclass"
+    ]
+  },
+  "parent": "cool_stuff_to_mess_with:a_wand"
+}

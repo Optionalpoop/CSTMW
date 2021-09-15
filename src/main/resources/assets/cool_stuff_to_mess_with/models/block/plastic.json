@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cool_stuff_to_mess_with:blocks/plastic",
+    "up": "cool_stuff_to_mess_with:blocks/plastic",
+    "north": "cool_stuff_to_mess_with:blocks/plastic",
+    "east": "cool_stuff_to_mess_with:blocks/plastic",
+    "south": "cool_stuff_to_mess_with:blocks/plastic",
+    "west": "cool_stuff_to_mess_with:blocks/plastic",
+    "particle": "cool_stuff_to_mess_with:blocks/plastic"
+  }
+}

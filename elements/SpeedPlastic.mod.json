@@ -1,0 +1,39 @@
+{
+  "_fv": 24,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "speeeeeeeeeeeeeed",
+    "customModelName": "Normal",
+    "name": "Speed Plastic",
+    "rarity": "RARE",
+    "creativeTab": {
+      "value": "CUSTOM:PlasticClasses"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "An artifact that can be used to unlock the power of SPEEEEEED"
+    ],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onItemInInventoryTick": {
+      "name": "Speed_Boost"
+    },
+    "hasDispenseBehavior": false
+  }
+}
