@@ -27,18 +27,325 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "america"
+    },
+    {
+      "name": "ManmadeInfinitite",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite"
+    },
+    {
+      "name": "ManmadeInfinititeBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_block"
+    },
+    {
+      "name": "ManmadeInfinititeOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_ore_block_recipe"
+    },
+    {
+      "name": "ManmadeInfinititeBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_block_ore_recipe"
+    },
+    {
+      "name": "ManmadeInfinititeOreSmelting",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_ore_smelting"
+    },
+    {
+      "name": "ManmadeInfinititePickaxe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_pickaxe"
+    },
+    {
+      "name": "ManmadeInfinititeAxe",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_axe"
+    },
+    {
+      "name": "ManmadeInfinititeSword",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_sword"
+    },
+    {
+      "name": "ManmadeInfinititeShovel",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_shovel"
+    },
+    {
+      "name": "ManmadeInfinititeHoe",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_hoe"
+    },
+    {
+      "name": "ManmadeInfinititePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_pickaxe_recipe"
+    },
+    {
+      "name": "ManmadeInfinititeAxeRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_axe_recipe"
+    },
+    {
+      "name": "ManmadeInfinititeSwordRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_sword_recipe"
+    },
+    {
+      "name": "ManmadeInfinititeShovelRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_shovel_recipe"
+    },
+    {
+      "name": "ManmadeInfinititeHoeRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_hoe_recipe"
+    },
+    {
+      "name": "ManmadeInfinititeArmor",
+      "type": "armor",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ManmadeInfinititeArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_armor_helmet_recipe"
+    },
+    {
+      "name": "ManmadeInfinititeArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_armor_body_recipe"
+    },
+    {
+      "name": "ManmadeInfinititeArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_armor_leggings_recipe"
+    },
+    {
+      "name": "ManmadeInfinititeArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manmade_infinitite_armor_boots_recipe"
+    },
+    {
+      "name": "InfinititeRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infinitite_recipe"
+    },
+    {
+      "name": "AnAncientResource",
+      "type": "achievement",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "an_ancient_resource"
+    },
+    {
+      "name": "WHATONEARTH",
+      "type": "achievement",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whatonearth"
+    },
+    {
+      "name": "TheSecretOfTheFarm",
+      "type": "achievement",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_secret_of_the_farm"
+    },
+    {
+      "name": "Strength",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strength",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Speed_Boost",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "speed_boost",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Night_Vision",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "night_vision",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Jump_Boost",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jump_boost",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "advancements.an_ancient_resource.descr": "Catco\u0027s infinitite has been recreated 1000 years after the apocolypse... Its not as good but it will do.",
+      "advancements.america.title": "Learn The States",
+      "item.cool_stuff_to_mess_with.manmade_infinitite_pickaxe": "Manmade Infinitite Pickaxe",
+      "item.cool_stuff_to_mess_with.manmade_infinitite_sword": "Manmade Infinitite Sword",
+      "advancements.whatonearth.descr": "YOU GOT A MANMADE INFINITITE BLOCK?!?!! HOW???",
+      "advancements.dimonz.title": "Dimonz",
+      "advancements.an_ancient_resource.title": "An Ancient Resource...",
+      "item.cool_stuff_to_mess_with.manmade_infinitite": "Manmade Infinitite",
+      "advancements.dimonz.descr": "get alot of dimonz",
+      "item.cool_stuff_to_mess_with.manmade_infinitite_axe": "Manmade Infinitite Axe",
+      "advancements.whatonearth.title": "WHAT ON EARTH?!?!?!?!",
+      "advancements.ez.title": "Ez",
+      "item.cool_stuff_to_mess_with.manmade_infinitite_armor_boots": "Manmade Infinitite Boots",
+      "item.cool_stuff_to_mess_with.manmade_infinitite_armor_leggings": "Manmade Infinitite Leggings",
       "advancements.ez.descr": "dis achievement do be ez to get, innit?",
       "advancements.america.descr": "Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho IllinoisIndiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri MontanaNebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon PennsylvaniaRhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming",
-      "advancements.america.title": "Learn The States",
-      "advancements.dimonz.title": "Dimonz",
-      "advancements.dimonz.descr": "get alot of dimonz",
-      "advancements.ez.title": "Ez"
+      "item.cool_stuff_to_mess_with.manmade_infinitite_shovel": "ManmadeInfinitite Shovel",
+      "block.cool_stuff_to_mess_with.manmade_infinitite_block": "Block of ManmadeInfinitite",
+      "advancements.the_secret_of_the_farm.title": "The Secret Of The Farm...",
+      "item.cool_stuff_to_mess_with.manmade_infinitite_armor_chestplate": "Manmade Infinitite Chestplate",
+      "item.cool_stuff_to_mess_with.manmade_infinitite_armor_helmet": "Manmade Infinitite Helmet",
+      "item.cool_stuff_to_mess_with.manmade_infinitite_hoe": "Manmade Infinitite Hoe",
+      "advancements.the_secret_of_the_farm.descr": "Make an infinitite hoe, its worth it, I promise..."
     }
   },
   "foldersRoot": {

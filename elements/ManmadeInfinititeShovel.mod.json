@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "manmadeinfinitite_shovel",
+    "customModelName": "Normal",
+    "name": "ManmadeInfinitite Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 20,
+    "efficiency": 24.0,
+    "attackSpeed": 1.0,
+    "enchantability": 99999,
+    "damageVsEntity": 5.0,
+    "usageCount": 6280,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:ManmadeInfinitite"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

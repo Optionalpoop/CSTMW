@@ -1,0 +1,29 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    },
+    "1": {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    },
+    "2": {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    },
+    "3": {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    },
+    "5": {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    }
+  },
+  "result": {
+    "item": "cool_stuff_to_mess_with:manmade_infinitite_armor_helmet",
+    "count": 1
+  }
+}

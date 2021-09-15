@@ -22,8 +22,8 @@
           {
             "item": "minecraft:diamond",
             "count": {
-              "min": 100,
-              "max": 100000000
+              "min": 64,
+              "max": 1000
             }
           }
         ]
@@ -31,7 +31,7 @@
     }
   },
   "rewards": {
-    "experience": 60000
+    "experience": 10000
   },
   "parent": "minecraft:story/mine_diamond"
 }

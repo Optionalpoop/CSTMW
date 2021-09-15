@@ -1,0 +1,42 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    },
+    "1": {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    },
+    "2": {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    },
+    "3": {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    },
+    "4": {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    },
+    "5": {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    },
+    "6": {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    },
+    "7": {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    },
+    "8": {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    }
+  },
+  "result": {
+    "item": "cool_stuff_to_mess_with:manmade_infinitite_block",
+    "count": 1
+  }
+}
