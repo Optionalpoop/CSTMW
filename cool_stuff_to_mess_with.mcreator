@@ -18,6 +18,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ez"
+    },
+    {
+      "name": "E",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e"
     }
   ],
   "variable_elements": [],
