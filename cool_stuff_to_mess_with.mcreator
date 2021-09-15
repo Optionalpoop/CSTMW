@@ -20,15 +20,6 @@
       "registry_name": "ez"
     },
     {
-      "name": "E",
-      "type": "tab",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "e"
-    },
-    {
       "name": "America",
       "type": "achievement",
       "sortid": 4,
@@ -47,8 +38,7 @@
       "advancements.america.title": "Learn The States",
       "advancements.dimonz.title": "Dimonz",
       "advancements.dimonz.descr": "get alot of dimonz",
-      "advancements.ez.title": "Ez",
-      "itemGroup.tabe": "E"
+      "advancements.ez.title": "Ez"
     }
   },
   "foldersRoot": {
