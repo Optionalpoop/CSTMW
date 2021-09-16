@@ -1,0 +1,13 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    }
+  ],
+  "result": {
+    "item": "cool_stuff_to_mess_with:dirt_nugget",
+    "count": 1
+  }
+}

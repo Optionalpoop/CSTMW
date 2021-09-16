@@ -1,0 +1,25 @@
+{
+  "_fv": 24,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "A Bad Idea!",
+    "achievementDescription": "Eat a dirt nugget crafted from a piece of dirt.... Wait what?",
+    "achievementIcon": {
+      "value": "CUSTOM:DirtNugget"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 10,
+    "achievementType": "challenge",
+    "parent": {
+      "value": "CUSTOM:Ez"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"item_consumed\" x=\"39\" y=\"65\"><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:DirtNugget</field></block></value><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

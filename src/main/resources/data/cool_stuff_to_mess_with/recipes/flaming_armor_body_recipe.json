@@ -1,0 +1,39 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    },
+    "2": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    },
+    "3": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    },
+    "4": {
+      "item": "cool_stuff_to_mess_with:hgf"
+    },
+    "5": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    },
+    "6": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    },
+    "7": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    },
+    "8": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    }
+  },
+  "result": {
+    "item": "cool_stuff_to_mess_with:flaming_armor_chestplate",
+    "count": 1
+  }
+}

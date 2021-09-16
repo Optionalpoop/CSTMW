@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cool_stuff_to_mess_with:blocks/mariorite_ore_block",
+    "particle": "cool_stuff_to_mess_with:blocks/mariorite_ore_block"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "cool_stuff_to_mess_with:dragonstone_ingot"
+    },
+    "1": {
+      "item": "cool_stuff_to_mess_with:hgf"
+    },
+    "2": {
+      "item": "cool_stuff_to_mess_with:dragonstone_ingot"
+    },
+    "3": {
+      "item": "cool_stuff_to_mess_with:dragonstone_ingot"
+    },
+    "5": {
+      "item": "cool_stuff_to_mess_with:dragonstone_ingot"
+    },
+    "6": {
+      "item": "cool_stuff_to_mess_with:dragonstone_ingot"
+    },
+    "8": {
+      "item": "cool_stuff_to_mess_with:dragonstone_ingot"
+    }
+  },
+  "result": {
+    "item": "cool_stuff_to_mess_with:dragonstone_armor_leggings",
+    "count": 1
+  }
+}

@@ -40,7 +40,7 @@ public class ManmadeInfinititePickaxeItem extends CoolStuffToMessWithModElements
 			}
 
 			public int getEnchantability() {
-				return 140;
+				return 999;
 			}
 
 			public Ingredient getRepairMaterial() {

@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    },
+    "title": {
+      "translate": "advancements.flamin_hot_cheetos.title"
+    },
+    "description": {
+      "translate": "advancements.flamin_hot_cheetos.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "flamin_hot_cheetos": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "cool_stuff_to_mess_with:flaming",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 69
+  },
+  "parent": "cool_stuff_to_mess_with:wait_wat"
+}

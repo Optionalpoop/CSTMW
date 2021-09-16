@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "cool_stuff_to_mess_with:items/dragonstone_sword"
+  }
+}

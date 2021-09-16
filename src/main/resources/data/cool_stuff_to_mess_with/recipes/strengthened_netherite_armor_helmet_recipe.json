@@ -1,0 +1,29 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "1": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "2": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "3": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "5": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "cool_stuff_to_mess_with:strengthened_netherite_armor_helmet",
+    "count": 1
+  }
+}

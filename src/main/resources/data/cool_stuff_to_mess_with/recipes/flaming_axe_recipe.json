@@ -1,0 +1,30 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "cool_stuff_to_mess_with:hgf"
+    },
+    "1": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    },
+    "2": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "cool_stuff_to_mess_with:flaming_axe",
+    "count": 1
+  }
+}

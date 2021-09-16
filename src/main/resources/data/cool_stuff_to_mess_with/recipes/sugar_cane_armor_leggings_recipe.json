@@ -1,0 +1,36 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sugar_cane"
+    },
+    "1": {
+      "item": "minecraft:sugar_cane"
+    },
+    "2": {
+      "item": "minecraft:sugar_cane"
+    },
+    "3": {
+      "item": "minecraft:sugar_cane"
+    },
+    "5": {
+      "item": "minecraft:sugar_cane"
+    },
+    "6": {
+      "item": "minecraft:sugar_cane"
+    },
+    "8": {
+      "item": "minecraft:sugar_cane"
+    }
+  },
+  "result": {
+    "item": "cool_stuff_to_mess_with:sugar_cane_armor_leggings",
+    "count": 1
+  }
+}

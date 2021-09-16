@@ -1,0 +1,74 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "flaming_head",
+    "enableBody": true,
+    "textureBody": "flaming_body",
+    "enableLeggings": true,
+    "textureLeggings": "flaming_leggings",
+    "enableBoots": true,
+    "textureBoots": "flaming_boots",
+    "onHelmetTick": {
+      "name": "Fireproof"
+    },
+    "onBodyTick": {
+      "name": "Fireproof"
+    },
+    "onLeggingsTick": {
+      "name": "Fireproof"
+    },
+    "onBootsTick": {
+      "name": "Fireproof"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "flaming",
+    "helmetName": "Flaming Helmet",
+    "bodyName": "Flaming Chestplate",
+    "leggingsName": "Flaming Leggings",
+    "bootsName": "Flaming Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 23,
+    "damageValueHelmet": 3,
+    "damageValueBody": 8,
+    "damageValueLeggings": 9,
+    "damageValueBoots": 3,
+    "enchantability": 14,
+    "toughness": 2.5,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Flaming"
+      }
+    ]
+  }
+}

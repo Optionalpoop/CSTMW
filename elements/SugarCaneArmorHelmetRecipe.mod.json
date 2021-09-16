@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SugarCaneArmor.helmet"
+    },
+    "name": "sugar_cane_armor_helmet_recipe",
+    "namespace": "mod"
+  }
+}

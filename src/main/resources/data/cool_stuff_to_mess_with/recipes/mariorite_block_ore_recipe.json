@@ -1,0 +1,13 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cool_stuff_to_mess_with:mariorite_block"
+    }
+  ],
+  "result": {
+    "item": "cool_stuff_to_mess_with:mariorite_ingot",
+    "count": 9
+  }
+}

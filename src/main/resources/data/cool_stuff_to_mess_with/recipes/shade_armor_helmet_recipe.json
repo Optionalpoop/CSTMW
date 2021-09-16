@@ -1,0 +1,29 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:coal_block"
+    },
+    "1": {
+      "item": "minecraft:coal_block"
+    },
+    "2": {
+      "item": "minecraft:coal_block"
+    },
+    "3": {
+      "item": "minecraft:coal_block"
+    },
+    "5": {
+      "item": "minecraft:coal_block"
+    }
+  },
+  "result": {
+    "item": "cool_stuff_to_mess_with:shade_armor_helmet",
+    "count": 1
+  }
+}

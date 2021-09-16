@@ -40,7 +40,7 @@ public class ManmadeInfinititeShovelItem extends CoolStuffToMessWithModElements.
 			}
 
 			public int getEnchantability() {
-				return 99999;
+				return 999;
 			}
 
 			public Ingredient getRepairMaterial() {

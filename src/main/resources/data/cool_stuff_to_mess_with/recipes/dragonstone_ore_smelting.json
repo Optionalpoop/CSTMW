@@ -1,0 +1,12 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:smelting",
+  "experience": 3.5,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "cool_stuff_to_mess_with:dragonstone_ore"
+  },
+  "result": {
+    "item": "cool_stuff_to_mess_with:dragonstone_ingot"
+  }
+}

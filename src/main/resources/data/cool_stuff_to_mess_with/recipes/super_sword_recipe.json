@@ -1,0 +1,16 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:netherite_ingot"
+    },
+    {
+      "item": "minecraft:diamond_sword"
+    }
+  ],
+  "result": {
+    "item": "cool_stuff_to_mess_with:super_sword",
+    "count": 1
+  }
+}

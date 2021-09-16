@@ -1,0 +1,67 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "shade_head",
+    "enableBody": false,
+    "textureBody": "shade_body",
+    "enableLeggings": false,
+    "textureLeggings": "shade_leggings",
+    "enableBoots": false,
+    "textureBoots": "shade_boots",
+    "onHelmetTick": {
+      "name": "Night_Vision"
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "shade",
+    "helmetName": "Shade Helmet",
+    "bodyName": "Shade Chestplate",
+    "leggingsName": "Shade Leggings",
+    "bootsName": "Shade Boots",
+    "helmetSpecialInfo": [
+      "Good for the dark..."
+    ],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 14,
+    "damageValueHelmet": 2,
+    "damageValueBody": 5,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 8,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.COAL_BLOCK"
+      }
+    ]
+  }
+}

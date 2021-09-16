@@ -1,0 +1,36 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    },
+    "1": {
+      "item": "cool_stuff_to_mess_with:hgf"
+    },
+    "2": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    },
+    "3": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    },
+    "5": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    },
+    "6": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    },
+    "8": {
+      "item": "cool_stuff_to_mess_with:flaming"
+    }
+  },
+  "result": {
+    "item": "cool_stuff_to_mess_with:flaming_armor_leggings",
+    "count": 1
+  }
+}

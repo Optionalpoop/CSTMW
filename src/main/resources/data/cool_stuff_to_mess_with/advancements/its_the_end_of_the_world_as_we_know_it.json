@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "cool_stuff_to_mess_with:dragonstone_ingot"
+    },
+    "title": {
+      "translate": "advancements.its_the_end_of_the_world_as_we_know_it.title"
+    },
+    "description": {
+      "translate": "advancements.its_the_end_of_the_world_as_we_know_it.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "its_the_end_of_the_world_as_we_know_it": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "cool_stuff_to_mess_with:dragonstone_ingot",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 69
+  },
+  "parent": "cool_stuff_to_mess_with:wait_wat"
+}

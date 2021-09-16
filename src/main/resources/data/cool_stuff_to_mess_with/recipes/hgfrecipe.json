@@ -1,0 +1,12 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:campfire_cooking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "cool_stuff_to_mess_with:piece_of_plastic"
+  },
+  "result": {
+    "item": "cool_stuff_to_mess_with:hgf"
+  }
+}

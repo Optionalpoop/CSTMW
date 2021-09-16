@@ -1,0 +1,16 @@
+{
+  "group": "cool_stuff_to_mess_with",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cool_stuff_to_mess_with:manmade_infinitite"
+    },
+    {
+      "item": "cool_stuff_to_mess_with:hgf"
+    }
+  ],
+  "result": {
+    "item": "cool_stuff_to_mess_with:super_hgf",
+    "count": 1
+  }
+}

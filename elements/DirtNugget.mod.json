@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "dirtnugget",
+    "customModelName": "Normal",
+    "name": "Dirt Nugget",
+    "rarity": "EPIC",
+    "specialInfo": [
+      "Dirt+chicken nugget=YUM"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 1000,
+    "saturation": 1000.0,
+    "eatingSpeed": 1,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": false,
+    "animation": "drink",
+    "hasGlow": true,
+    "onEaten": {
+      "name": "DirtNugget_AfterEffect"
+    }
+  }
+}

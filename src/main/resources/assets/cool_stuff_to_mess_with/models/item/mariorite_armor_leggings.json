@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cool_stuff_to_mess_with:items/mariorite_leggings"
+  }
+}
