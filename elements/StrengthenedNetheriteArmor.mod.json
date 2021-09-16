@@ -14,10 +14,10 @@
       "value": "COMBAT"
     },
     "armorTextureFile": "strengthenednetherite",
-    "helmetName": "StrengthenedNetherite Helmet",
-    "bodyName": "StrengthenedNetherite Chestplate",
-    "leggingsName": "StrengthenedNetherite Leggings",
-    "bootsName": "StrengthenedNetherite Boots",
+    "helmetName": "Strengthened Netherite Helmet",
+    "bodyName": "Strengthened Netherite Chestplate",
+    "leggingsName": "Strengthened Netherite Leggings",
+    "bootsName": "Strengthened Netherite Boots",
     "helmetSpecialInfo": [],
     "bodySpecialInfo": [],
     "leggingsSpecialInfo": [],
@@ -48,8 +48,8 @@
     "damageValueLeggings": 60,
     "damageValueBoots": 20,
     "enchantability": 90,
-    "toughness": 0.0,
-    "knockbackResistance": 0.0,
+    "toughness": 4.0,
+    "knockbackResistance": 0.5,
     "equipSound": {
       "value": ""
     },
